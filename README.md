@@ -3,8 +3,9 @@ Quaver Snippets
 Distributed under MIT license.
 
 
-Snippets for Sublime Text 2/3
-====
+## Snippets for Sublime Text 2/3
+
+### Translate your strings 
 
 ```<snippet>
  <content><![CDATA[
