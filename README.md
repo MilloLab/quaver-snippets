@@ -1,6 +1,6 @@
 Quaver Snippets
 ====================
-Distributed under MIT license.
+Developed by [MilloLab](http://millolab.com), and distributed under MIT license.
 
 
 ## Snippets for Sublime Text 2/3
